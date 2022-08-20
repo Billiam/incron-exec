@@ -1,0 +1,4 @@
+/watch/*
+/bin/*
+!.gitkeep
+update.log
